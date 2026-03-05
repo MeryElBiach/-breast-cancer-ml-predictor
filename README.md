@@ -78,4 +78,4 @@ Install dependencies:
 ![Prediction Result](screenshots/results.png)
 
 
-![Visualization](screenshots/features chosen.png)
+![Visualization](screenshots/features_chosen.png)
