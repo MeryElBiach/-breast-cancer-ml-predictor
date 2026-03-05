@@ -64,3 +64,18 @@ The project was developed following these main steps:
 ## Running the Application
 
 Install dependencies:
+## Application Interface
+
+### Main Interface
+
+![Main Interface](screenshots/interface.png)
+### choose Features 
+
+![Main Interface](screenshots/features.png)
+
+### Prediction Result
+
+![Prediction Result](screenshots/results.png)
+
+
+![Visualization](screenshots/features chosen.png)
